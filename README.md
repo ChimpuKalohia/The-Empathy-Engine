@@ -1,5 +1,4 @@
 # The-Empathy-Engine
-# The Empathy Engine
 
 > **Emotion-aware Text→Speech** — dynamically modulates synthesized speech so the voice sounds empathetic, expressive, and human-like.
 
